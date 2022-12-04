@@ -1,10 +1,11 @@
 # pomodoro
-Para manter o foco no trabalho
+Para manter o foco no trabalho e controlar sua produtividade
 
-Lista de Tarefas:
+### Lista de Tarefas:
 
-- [] Criar um cronometro de 25 minutos
-- [] Criar uma interface
+- [x] Criar um cronometro de 25 minutos
+- [x] Criar o visual do ativador do cronometro
+- [] Conectar o ativador do cronometro
 - [] Mapear o tempo e 40 minutos depois de começar precisamos dar uma aviso que terminou
 - [] Exibir visualmente o tempo restante
 - [] Ter uma outra ativação do cronometro, com 5 min, para o intervalo
@@ -14,10 +15,10 @@ Lista de Tarefas:
 - [] Avisos sonoros para cada início e fim
 - [] Ativar função de ir no automático para a proxima etapa do pomodoro
 
-- teste
 
 
-Extras:
+
+### Extras:
 
 - [] Notificação no navegar para cada aviso de início e fim
 - [] Configurar a quantidade de tempo de um bloco de trabalho e um bloco de intervalo
