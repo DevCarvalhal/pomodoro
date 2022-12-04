@@ -3,7 +3,7 @@ Para manter o foco no trabalho
 
 Lista de Tarefas:
 
-- [] Criar um cronometro
+- [] Criar um cronometro de 25 minutos
 - [] Criar uma interface
 - [] Mapear o tempo e 40 minutos depois de começar precisamos dar uma aviso que terminou
 - [] Exibir visualmente o tempo restante
