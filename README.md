@@ -8,7 +8,7 @@ Para manter o foco no trabalho e controlar sua produtividade
 - [x] Conectar o ativador do cronometro com a função de criar cronometro
 - [x] Disparar aviso que terminou
 - [x] Criar uma logica de contador de segundos
-- [] Calcular o tempo restante
+- [x] Calcular o tempo restante
 - [] Criar o componente do cronometro na tela
 - [] Exibir visualmente o tempo restante no componete do cronometro
 - [] Ter uma outra ativação do cronometro, com 5 min, para o intervalo
