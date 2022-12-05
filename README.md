@@ -4,9 +4,9 @@ Para manter o foco no trabalho e controlar sua produtividade
 ### Lista de Tarefas:
 
 - [x] Criar um cronometro de 25 minutos
-- [x] Criar o visual do ativador do cronometro com a função de criar cronometro
-- [x] Conectar o ativador do cronometro
-- [] Mapear o tempo e 40 minutos depois de começar precisamos dar uma aviso que terminou
+- [x] Criar o visual do ativador do cronometro 
+- [x] Conectar o ativador do cronometro com a função de criar cronometro
+- [x] Disparar aviso que terminou
 - [] Exibir visualmente o tempo restante
 - [] Ter uma outra ativação do cronometro, com 5 min, para o intervalo
 - [] Exibir uma contagem de pomodoros
