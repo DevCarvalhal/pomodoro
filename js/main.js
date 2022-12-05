@@ -7,6 +7,12 @@ disparador.addEventListener('click', () => {
     setTimeout(() => {
         console.log("Acabou o Pomodoro!");
         alert("O seu tempo de produção cacabou, hora do descanso")
+        clearInterval(contador)
     }, segundosPomodoro)
+
+    let contador = setInterval('contadorDeSegundos()',1000);
 })
   
+function contadorDeSegundos() {
+    console.log('tik tack')
+}
